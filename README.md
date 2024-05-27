@@ -1,5 +1,12 @@
-## Welcome 🎉
+## Welcome 👏
 
-I'm a front-end developer.
+I am a frontend developer (mainly web development).
 
-My blog: https://yuanwer.github.io/blog-website/
+I have been learning Rust 🦀 recently.
+
+## 欢迎 👏
+
+我是一名前端开发者（主要是web开发）。
+
+最近在学习 Rust 🦀。         
+
