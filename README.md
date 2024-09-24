@@ -1,18 +1,11 @@
-# Welcome to My Profile 👋
+# 欢迎 👋
 
-I'm a frontend engineer focused on web development, with experience in various projects and technologies.
+我是一名专注于网页开发的前端工程师。
 
-💻 Tech Stack:
-- Working with HTML5, CSS3, JavaScript
-- Experience in React, Vue and other frontend frameworks
-- Knowledge of responsive design and cross-browser compatibility
+使用 HTML5、CSS3 和 JavaScript、熟悉 React、Vue 及其他前端框架、了解响应式设计和跨浏览器兼容性。
 
-🚀 Recent Activities:
-- Following new trends in frontend technologies
-- Expanding my understanding of advanced JavaScript concepts and modern web development practices
+🚀 最近的动态
+- 使用 uniapp 开发网页和微信小程序，并发布到线上
+- 学习 CSS 技巧和 JS 的新特性
 
-🔍 Personal Projects:
-- "link-qr-code": A Chrome browser extension for generating QR codes from webpage links
-- "PNG-Automatic-Cropping": A web application for automatically cropping transparent edges of PNG images
-
-🌟 Open to communication and collaboration. Let's explore the possibilities of frontend technology together!
+🌟 我开发软件更加偏向实用性，下面是一些个人项目，希望对你有帮助！
