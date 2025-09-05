@@ -1,5 +1,5 @@
-一个前端，追求理论与实践的融合。
+一个追求理论与实践相结合的前端开发者。
 
 ---
 
-A front-end developer who strives to integrate theory and practice.
+A front-end developer pursuing the integration of theory and practice.
